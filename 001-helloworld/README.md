@@ -6,16 +6,16 @@
 
 ### 依赖
 
-* spring-boot-starter-parent
-* spring-boot-starter-web
-* spring-boot-maven-plugin
+* spring-boot-starter-parent (230)
+* spring-boot-starter-web (847)
+* spring-boot-maven-plugin (239)
 
 ### 类
 
-* SpringApplication
+* SpringApplication (115)
 
 ### 注解
 
-* SpringBootApplication
-* RequestMapping
-* RestController
+* SpringBootApplication (103)
+* RequestMapping (143)
+* RestController (89.2)

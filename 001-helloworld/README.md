@@ -1,6 +1,6 @@
 # 001-helloword
 
-使用 `spring-boot-starter-web` 构建的一个最简单的 Spring Boot Web 项目，启动后访问 `http://localhost:8080/` 显示 `Hello World!`。
+这是一个使用 `spring-boot-starter-web` 构建的最简单的 Spring Boot Web 项目，启动后访问 `http://localhost:8080/` 显示 `Hello World!`，通过这个工程学习如何快速构建 Spring Boot Web 项目。
 
 ## 知识点
 

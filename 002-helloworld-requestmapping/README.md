@@ -119,6 +119,37 @@ public String pathMethodGetSimple() {
 }
 ```
 
+## 相关引用
+
+### 依赖
+
+* spring-boot-starter-parent
+* spring-boot-starter-web
+* spring-boot-maven-plugin
+
+### 类
+
+* SpringApplication
+
+### 注解
+
+* SpringBootApplication
+* RequestMapping
+* RestController
+
+* GetMapping [*New*]
+* PostMapping [*New*]
+* PutMapping [*New*]
+* DeleteMapping [*New*]
+* PatchMapping [*New*]
+
+* PathVariable [*New*]
+* RequestParam [*New*]
+
+### 枚举
+
+* RequestMethod [*New*]
+
 ## 参考
 
 1. [Spring @RequestMapping | Baeldung](https://www.baeldung.com/spring-requestmapping)

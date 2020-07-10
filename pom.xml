@@ -10,5 +10,6 @@
 		<module>001-helloworld</module>
 		<module>002-helloworld-requestmapping</module>
 		<module>003-helloworld-restcontroller</module>
+		<module>004-helloworld-springbootapplication</module>
 	</modules>
 </project>

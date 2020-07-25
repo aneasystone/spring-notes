@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "com.stonie.hello-name",
+      "type": "java.lang.String",
+      "description": "The name to say hello."
+  },   {
+      "name": "com.stonie.hello-title",
+      "type": "java.lang.String",
+      "description": "Hello or Hi or other hello words."
+    }
+] }

@@ -12,5 +12,6 @@
 		<module>003-helloworld-restcontroller</module>
 		<module>004-helloworld-springbootapplication</module>
 		<module>005-helloworld-configuration</module>
+		<module>006-helloworld-configurationproperties</module>
 	</modules>
 </project>
